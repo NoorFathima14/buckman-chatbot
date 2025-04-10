@@ -1,4 +1,4 @@
-Buckman Chatbot
+Multimodal Chatbot
 ===============
 
 A multimodal chatbot designed to simplify file querying, processing, and intelligent response generation. Buckman Chatbot supports diverse file types (PDF, CSV, DOCX, PNG, JPEG, MP4), processes text, images, and videos, and enhances responses with web search validation and caching for performance. Built with open-source technologies, it’s a user-friendly solution for students, researchers, educators, and professionals.
@@ -6,7 +6,7 @@ A multimodal chatbot designed to simplify file querying, processing, and intelli
 Overview
 --------
 
-Buckman Chatbot is a web-based application that allows users to upload, process, and query files in various formats, including PDFs, images, and videos. It leverages multimodal processing to handle text, images, and videos, and uses natural language querying to provide intelligent, Markdown-formatted responses with syntax highlighting. The chatbot validates responses using web search (Google Custom Search API) and caches them with Redis for faster retrieval of repeated queries. It’s designed for academic research, content analysis, lecture summarization, and more, targeting students, researchers, educators, and professionals.
+This Chatbot is a web-based application that allows users to upload, process, and query files in various formats, including PDFs, images, and videos. It leverages multimodal processing to handle text, images, and videos, and uses natural language querying to provide intelligent, Markdown-formatted responses with syntax highlighting. The chatbot validates responses using web search (Google Custom Search API) and caches them with Redis for faster retrieval of repeated queries. It’s designed for academic research, content analysis, lecture summarization, and more, targeting students, researchers, educators, and professionals.
 
 Key Features
 ------------
